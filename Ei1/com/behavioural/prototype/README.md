@@ -1,8 +1,11 @@
 Prototype Design Pattern Example
+
 Overview
+
 This project demonstrates the use of the Prototype design pattern in Java. The Prototype pattern is used to create a new object by copying an existing object, known as the prototype. In this example, the Book class implements the Cloneable interface, allowing us to create copies of a prototype Book object. The Bookshop class uses this prototype to create new books with modified properties.
 
 Project Structure
+
 The project consists of the following classes:
 
 Book: A class representing a book, which includes the title, author, and price. It implements the Cloneable interface to allow cloning.
