@@ -1,8 +1,11 @@
 YouTube Notification System
+
 Overview
+
 This project implements a YouTube notification system using the Observer design pattern. The Observer pattern is a behavioral design pattern that allows an object, known as the subject, to maintain a list of its dependents, called observers, and notify them of state changes. In this example, YouTubeChannel serves as the subject, and YouTubeNotification implements the Subscriber interface to act as the observer.
 
 Project Structure
+
 The project consists of the following components:
 
 Video: A simple class representing a video, containing attributes like title and description.
