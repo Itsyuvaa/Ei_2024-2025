@@ -1,8 +1,11 @@
 Phone Customization System
+
 Overview
+
 This project demonstrates the use of the Builder design pattern to create a customizable phone specification system. The Builder pattern is a creational design pattern that allows for the construction of complex objects step by step. In this project, the PhoneBuilder class facilitates the creation of Phone objects with various customizable attributes like brand, model, storage, RAM, and color.
 
 Project Structure
+
 The project is composed of the following components:
 
 Phone Class: Represents the product with attributes like brand, model, storage, RAM, and color.
