@@ -1,0 +1,12 @@
+Jul 25, 2024 12:10:59 PM com.schedulemanager.ScheduleManager addTask
+INFO: Task added: 08:00 - 09:00: Mor [High]
+Jul 25, 2024 12:11:12 PM com.schedulemanager.ScheduleManager addTask
+INFO: Task added: 09:00 - 10:00: Team [Medium]
+Jul 25, 2024 12:11:24 PM com.schedulemanager.ScheduleManager removeTask
+SEVERE: Task not found: Morn
+Jul 25, 2024 12:11:29 PM com.schedulemanager.ScheduleManager removeTask
+INFO: Task removed: 08:00 - 09:00: Mor [High]
+Jul 25, 2024 12:12:24 PM com.schedulemanager.ScheduleManager addTask
+INFO: Task added: 12:00 - 13:00: Lunch [Low]
+Jul 25, 2024 12:13:04 PM com.schedulemanager.ScheduleManager addTask
+SEVERE: Task conflict: 09:30 - 10:30: Meet [Low] conflicts with 09:00 - 10:00: Team [Medium]
